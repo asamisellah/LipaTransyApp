@@ -14,7 +14,7 @@ public class MyPreferences {
     int PRIVATE_MODE = 0;
 
 
-    private static final String PREF_NAME = "lipatransapp";
+    private static final String PREF_NAME = "lipatransyapp";
 
     private static final String IS_FIRST_TIME_LAUNCH = "IsFirstTimeLaunch";
 

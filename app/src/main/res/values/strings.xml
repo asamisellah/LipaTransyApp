@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">Lipa Transy App</string>
     <string name="pay">PAY</string>
+
+    <string name="login">login</string>
+
     <string name="dialog_message">You are about to send </string>
     <string name="enter_pin_number">Enter Pin Number</string>
     <string name="ok_text">Ok</string>
+
 </resources>
